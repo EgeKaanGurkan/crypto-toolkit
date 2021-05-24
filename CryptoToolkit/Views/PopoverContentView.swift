@@ -17,12 +17,11 @@ struct PopoverContentView: View {
     var apiKeyGotten: Bool = false
     
     var body: some View {
-//        CoinDetailView()
-        
         if (!apiKeyGotten) {
-            apiKeyView()
+            ApiKeyView()
         } else {
             if (showIndex == 0) {
+                
                 CoinList(showIndex: $showIndex, narrowMode: .constant(false))
                     .frame(maxWidth: .infinity, maxHeight: .infinity)
                     .transition(AnyTransition.move(edge: .leading)).animation(.default)
@@ -45,6 +44,10 @@ struct PopoverContentView: View {
         }
         
     }
+}
+
+func remove() {
+    UserDefaults.standard.set(false, forKey: "apiKeyGotten")
 }
 
 struct PopoverContentView_Previews: PreviewProvider {

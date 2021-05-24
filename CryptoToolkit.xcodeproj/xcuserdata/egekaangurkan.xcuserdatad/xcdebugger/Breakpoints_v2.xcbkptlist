@@ -7,22 +7,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "131922D1-DC11-48BC-BA8A-C9910A6C08C5"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CryptoToolkit/Views/Coin Views/CoinList.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "53"
-            endingLineNumber = "53"
-            landmarkName = "body"
-            landmarkType = "24">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "6C380368-3DD7-4000-90F6-5AE03E52205F"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -30,8 +14,8 @@
             filePath = "CryptoToolkit/Views/Coin Views/CoinList.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "40"
-            endingLineNumber = "40"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
             landmarkName = "CoinList"
             landmarkType = "14">
             <Locations>
@@ -154,8 +138,8 @@
             filePath = "CryptoToolkit/Views/Coin Views/CoinList.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "41"
-            endingLineNumber = "41"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
             landmarkName = "CoinList"
             landmarkType = "14">
             <Locations>
@@ -262,10 +246,10 @@
             filePath = "CryptoToolkit/Views/Coin Views/CoinList.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "42"
-            endingLineNumber = "42"
-            landmarkName = "CoinList"
-            landmarkType = "14">
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "customColors"
+            landmarkType = "24">
             <Locations>
                <Location
                   uuid = "1059E0FB-90E3-4CE6-BEC6-3888D4663898 - 629e107261bd1829"
@@ -357,7 +341,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "76"
             endingLineNumber = "76"
-            landmarkName = "saveJSON()"
+            landmarkName = "checkIfDataHasLoaded()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

@@ -8,22 +8,6 @@
 import SwiftUI
 
 extension View {
-    
-    /// Hide or show the view based on a boolean value.
-    ///
-    /// Example for visibility:
-    ///
-    ///     Text("Label")
-    ///         .isHidden(true)
-    ///
-    /// Example for complete removal:
-    ///
-    ///     Text("Label")
-    ///         .isHidden(true, remove: true)
-    ///
-    /// - Parameters:
-    ///   - hidden: Set to `false` to show the view. Set to `true` to hide the view.
-    ///   - remove: Boolean value indicating whether or not to remove the view.
     @ViewBuilder func isHidden(_ hidden: Bool, remove: Bool = false) -> some View {
         if hidden {
             if !remove {
@@ -41,26 +25,34 @@ struct CoinList: View {
     @ObservedObject var customColors = LoadCustomColors()
     @Binding var showIndex: Int
     @Binding var narrowMode: Bool
+    @State var showSettings = false
     
     var body: some View {
         
         List {
-            Button(action: {exit(0)}) {
-                Text("Exit")
+            Section(header: Button(action: {
+                self.showSettings.toggle()
+            }) {
+                Image(systemName: "gearshape.fill")
             }
-            if (downloadData.dataHasLoaded) {
-                Text("asd")
-                ForEach(0 ..< downloadData.listOfCoins.count) { i in
-                    CoinRow(showIndex: $showIndex, narrowMode: .constant(narrowMode), coin: downloadData.listOfCoins[i], imgName: downloadData.listOfCoins[i].name.lowercased())
+            .popover(isPresented: self.$showSettings, arrowEdge: .leading, content: {
+                SettingsPopover()
+            })
+            ) {
+                if (downloadData.dataHasLoaded) {
+                    ForEach(0 ..< downloadData.listOfCoins.count) { i in
+                        CoinRow(showIndex: $showIndex, narrowMode: .constant(narrowMode), coin: downloadData.listOfCoins[i], imgName: downloadData.listOfCoins[i].name.lowercased())
+                    }
+                } else {
+                    Text("Latest coin prices are being fetched...")
                 }
-            } else {
-                Text("items are loading")
             }
             
         }
         .onAppear(perform: {
             downloadData.downloadJSON()
         })
+        
     }
     
     func printData() {
@@ -68,8 +60,6 @@ struct CoinList: View {
         print(downloadData.listOfCoins)
     }
 }
-
-
 
 struct CoinList_Previews: PreviewProvider {
     static var previews: some View {
