@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "801CFDF4-B0BC-4B97-9513-E2855FED3ED4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "131922D1-DC11-48BC-BA8A-C9910A6C08C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoToolkit/Views/Coin Views/CoinList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C380368-3DD7-4000-90F6-5AE03E52205F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoToolkit/Views/Coin Views/CoinList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "CoinList"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "6C380368-3DD7-4000-90F6-5AE03E52205F - f64acf52f6346885"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of CryptoToolkit.CoinList.downloadData : CryptoToolkit.DownloadData"
+                  moduleName = "CryptoToolkit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egekaangurkan/Desktop/Code%20Study/CryptoToolkit/CryptoToolkit/Views/Coin%20Views/CoinList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "6C380368-3DD7-4000-90F6-5AE03E52205F - a4777d839037ef61"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoToolkit.CoinList.downloadData.getter : CryptoToolkit.DownloadData"
+                  moduleName = "CryptoToolkit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egekaangurkan/Desktop/Code%20Study/CryptoToolkit/CryptoToolkit/Views/Coin%20Views/CoinList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "6C380368-3DD7-4000-90F6-5AE03E52205F - 26fe4491514d8e9d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoToolkit.CoinList.downloadData.setter : CryptoToolkit.DownloadData"
+                  moduleName = "CryptoToolkit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egekaangurkan/Desktop/Code%20Study/CryptoToolkit/CryptoToolkit/Views/Coin%20Views/CoinList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "74">
+               </Location>
+               <Location
+                  uuid = "6C380368-3DD7-4000-90F6-5AE03E52205F - b0328ff7c8a2916e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoToolkit.CoinList.downloadData.modify : CryptoToolkit.DownloadData"
+                  moduleName = "CryptoToolkit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egekaangurkan/Desktop/Code%20Study/CryptoToolkit/CryptoToolkit/Views/Coin%20Views/CoinList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "14">
+               </Location>
+               <Location
+                  uuid = "6C380368-3DD7-4000-90F6-5AE03E52205F - b8fd23552888f9cc"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoToolkit.CoinList.downloadData.modify : CryptoToolkit.DownloadData with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CryptoToolkit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egekaangurkan/Desktop/Code%20Study/CryptoToolkit/CryptoToolkit/Views/Coin%20Views/CoinList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "6C380368-3DD7-4000-90F6-5AE03E52205F - 10de4e85d1528355"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoToolkit.CoinList.$downloadData.getter : SwiftUI.ObservedObject&lt;CryptoToolkit.DownloadData&gt;.Wrapper"
+                  moduleName = "CryptoToolkit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egekaangurkan/Desktop/Code%20Study/CryptoToolkit/CryptoToolkit/Views/Coin%20Views/CoinList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "98">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E83EE06-8D18-4052-998C-B71C3C0A88ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoToolkit/API Utilities/Models/DownloadData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "downloadJSON()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFC1F561-71E4-40DA-8E83-27484E3132B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoToolkit/Views/Coin Views/CoinList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "CoinList"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "AFC1F561-71E4-40DA-8E83-27484E3132B8 - 54c56dda5c8aa2c8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of CryptoToolkit.CoinList.customColors : CryptoToolkit.LoadCustomColors"
+                  moduleName = "CryptoToolkit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egekaangurkan/Desktop/Code%20Study/CryptoToolkit/CryptoToolkit/Views/Coin%20Views/CoinList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "AFC1F561-71E4-40DA-8E83-27484E3132B8 - 9e6bf50d5cdfd80e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoToolkit.CoinList.customColors.getter : CryptoToolkit.LoadCustomColors"
+                  moduleName = "CryptoToolkit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egekaangurkan/Desktop/Code%20Study/CryptoToolkit/CryptoToolkit/Views/Coin%20Views/CoinList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "AFC1F561-71E4-40DA-8E83-27484E3132B8 - 61042cc69c1100fa"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoToolkit.CoinList.customColors.setter : CryptoToolkit.LoadCustomColors"
+                  moduleName = "CryptoToolkit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egekaangurkan/Desktop/Code%20Study/CryptoToolkit/CryptoToolkit/Views/Coin%20Views/CoinList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "74">
+               </Location>
+               <Location
+                  uuid = "AFC1F561-71E4-40DA-8E83-27484E3132B8 - 97d11ef6e4fa6064"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoToolkit.CoinList.customColors.modify : CryptoToolkit.LoadCustomColors"
+                  moduleName = "CryptoToolkit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egekaangurkan/Desktop/Code%20Study/CryptoToolkit/CryptoToolkit/Views/Coin%20Views/CoinList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "14">
+               </Location>
+               <Location
+                  uuid = "AFC1F561-71E4-40DA-8E83-27484E3132B8 - 2b400b15b2416326"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoToolkit.CoinList.customColors.modify : CryptoToolkit.LoadCustomColors with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CryptoToolkit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egekaangurkan/Desktop/Code%20Study/CryptoToolkit/CryptoToolkit/Views/Coin%20Views/CoinList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "AFC1F561-71E4-40DA-8E83-27484E3132B8 - cecd6f574c8f06bd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoToolkit.CoinList.$customColors.getter : SwiftUI.ObservedObject&lt;CryptoToolkit.LoadCustomColors&gt;.Wrapper"
+                  moduleName = "CryptoToolkit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egekaangurkan/Desktop/Code%20Study/CryptoToolkit/CryptoToolkit/Views/Coin%20Views/CoinList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "98">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1059E0FB-90E3-4CE6-BEC6-3888D4663898"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoToolkit/Views/Coin Views/CoinList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "CoinList"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "1059E0FB-90E3-4CE6-BEC6-3888D4663898 - 629e107261bd1829"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoToolkit.CoinList.showIndex.getter : Swift.Int"
+                  moduleName = "CryptoToolkit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egekaangurkan/Desktop/Code%20Study/CryptoToolkit/CryptoToolkit/Views/Coin%20Views/CoinList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "1059E0FB-90E3-4CE6-BEC6-3888D4663898 - 606632e0d87cec3d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoToolkit.CoinList.showIndex.setter : Swift.Int"
+                  moduleName = "CryptoToolkit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egekaangurkan/Desktop/Code%20Study/CryptoToolkit/CryptoToolkit/Views/Coin%20Views/CoinList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "154">
+               </Location>
+               <Location
+                  uuid = "1059E0FB-90E3-4CE6-BEC6-3888D4663898 - 5965e4735b2af97c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoToolkit.CoinList.showIndex.modify : Swift.Int"
+                  moduleName = "CryptoToolkit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egekaangurkan/Desktop/Code%20Study/CryptoToolkit/CryptoToolkit/Views/Coin%20Views/CoinList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  uuid = "1059E0FB-90E3-4CE6-BEC6-3888D4663898 - 6770f4e9123ed3d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoToolkit.CoinList.showIndex.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CryptoToolkit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egekaangurkan/Desktop/Code%20Study/CryptoToolkit/CryptoToolkit/Views/Coin%20Views/CoinList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "1059E0FB-90E3-4CE6-BEC6-3888D4663898 - dbf98467a6588395"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoToolkit.CoinList.$showIndex.getter : SwiftUI.Binding&lt;Swift.Int&gt;"
+                  moduleName = "CryptoToolkit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egekaangurkan/Desktop/Code%20Study/CryptoToolkit/CryptoToolkit/Views/Coin%20Views/CoinList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "215">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14CDC91D-82BC-452A-BF2D-3E679A105209"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoToolkit/API Utilities/Models/DownloadData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "saveJSON()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
